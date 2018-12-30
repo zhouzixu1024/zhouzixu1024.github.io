@@ -2,6 +2,8 @@
 title: Zhouzixu ZuiShuai
 date: 2018-12-30 16:17:35
 tags:
+categories: git 前端
+thumbnail: http://miccall.oss-cn-beijing.aliyuncs.com/18-11-21/23325192.jpg
 ---
 
 > 周子谞最帅！
