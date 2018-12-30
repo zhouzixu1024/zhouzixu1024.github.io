@@ -6,14 +6,15 @@ tags:
 
 > 周子谞最帅！
 
-# 周子谞
-## 周子谞
-### 周子谞
-#### 周子谞
-
-* 周子谞
-* 周子谞
-
-1. 周子谞
-2. 周子谞
-3. 周子谞
+#### 上传步骤
+     1.git add . 
+     2.git commit -m "注释"
+     3.git pull origin dev 
+     4.git push origin dev
+     
+####解决冲突
+     1.git rebase
+####查看哪个文件改动过过
+     1.git diff
+####查看文件状态
+     1.gie status
